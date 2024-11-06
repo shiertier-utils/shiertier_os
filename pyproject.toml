@@ -3,9 +3,9 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "shiertier_i18n"
+name = "shiertier_os"
 version = "0.0.1"
-description = "A simple internationalization (i18n) library for Python."
+description = "A simple os library for Python."
 readme = "README.md"
 requires-python = ">=3.7"
 license = {file = "LICENSE"}
