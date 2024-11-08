@@ -11,7 +11,7 @@ English | [中文](https://github.com/shiertier-utils/shiertier_os/blob/main/REA
 You can install `shiertier_os` via `pip`:
 
 ```bash
-pip install git+https://github.com/shiertier/shiertier_os.git
+pip install git+https://github.com/shiertier-utils/shiertier_os.git
 ```
 
 Please note that this project is still under development.
